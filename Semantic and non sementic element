@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>semitric non semetric</title>
+</head>
+<body>
+    <header><H2>this is a header </H2>
+    <p>this is header paragraf </p>
+<nav><H2>THIS IS NAVBAR</H2>
+<p>this is nav paragraf</p>
+</nav>
+</header>
+ <main>
+    <article><H2>this is a article </H2>
+    </article>
+    <footer>
+        this is footer
+    </footer>
+
+</body>
+</html>
