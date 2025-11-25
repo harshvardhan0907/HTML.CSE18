@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding: 0%;
+    background: color #999;
+    background-image: url(blue.jpg);
+    background-repeat: repeat-x;
+    background-position: top right;
+}
+html{
+    margin: 0;
+    padding:0;
+    box-sizing:initial;
+    
+    
+    
+    
+}
